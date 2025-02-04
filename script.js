@@ -27,3 +27,4 @@ function atualizarTempo() {
 }
 
 setInterval(atualizarTempo, 1000)
+
