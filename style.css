@@ -1,0 +1,17 @@
+img {
+    height: 300px;
+    width: auto;
+    
+}
+
+body {
+    background-color: rgb(231, 117, 117);
+    
+}
+
+#timer{
+    font-family: monospace;
+    color: white;
+    font-size: x-large;
+    margin-top: 30px;
+}
